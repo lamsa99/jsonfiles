@@ -1,0 +1,22 @@
+{
+    "country": [
+        {
+            "name": "Syira", 
+            "cities": [
+                "Damascus",
+                "Aleppo",
+                "Homs",
+                "Alqunaitira"
+            ]
+        }, 
+        {
+            "name": "Morroco",
+            "cities": [
+                "Rabat",
+                "Casablanca",
+                "Marrakesch",
+                "Tetiuan"
+            ]
+        } 
+    ]
+}

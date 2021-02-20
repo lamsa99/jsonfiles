@@ -1,7 +1,7 @@
 {
     "country": [
         {
-            "name": "Syira", 
+            "name": "Syria", 
             "cities": [
                 "Damascus",
                 "Aleppo",
@@ -10,7 +10,7 @@
             ]
         }, 
         {
-            "name": "Morroco",
+            "name": "Morocco",
             "cities": [
                 "Rabat",
                 "Casablanca",
@@ -20,3 +20,4 @@
         } 
     ]
 }
+
